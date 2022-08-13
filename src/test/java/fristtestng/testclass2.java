@@ -1,5 +1,10 @@
 package fristtestng;
 
-public class testclass2 {
+import org.testng.annotations.Test;
 
+public class testclass2 {
+	@Test
+	public void display() {
+		System.out.println("delete");
+	}
 }

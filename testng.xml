@@ -4,6 +4,8 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="fristtestng.Test1"/>
+      <class name="fristtestng.testclass2"/>
+      <class name="fristtestng.testclass1"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

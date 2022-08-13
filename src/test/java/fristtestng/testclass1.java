@@ -1,5 +1,11 @@
 package fristtestng;
 
-public class testclass1 {
+import org.testng.annotations.Test;
 
+public class testclass1 {
+@Test
+public void display() {
+	System.out.println("print");
 }
+}
+
